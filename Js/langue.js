@@ -73,8 +73,8 @@ const translations = {
     contactSubtitle: "Envoyez-nous un message",
     contactButton: "Envoyer le message",
     addressText: "123 Aflao Ghana",
-    emailText: "Email : info@bks.com",
-    phoneText: "(+233) 456-78909",
+    emailText: "Email : zaglagoakuyoerika@gmail.com",
+    phoneText: "(+228) 98 19 95 73",
 
     contactNamePlaceholder: "Entrez votre nom...",
     contactPhonePlaceholder: "Entrez votre numéro...",
@@ -120,8 +120,8 @@ const translations = {
     contactSubtitle: "Send us a message",
     contactButton: "Send Message",
     addressText: "123 Aflao Ghana",
-    emailText: "Email: info@bks.com",
-    phoneText: "(+233) 456-78909",
+    emailText: "Email: zaglagoakuyoerika@gmail.com",
+    phoneText: "(+228) 98 19 95 73",
 
     contactNamePlaceholder: "Enter your name...",
     contactPhonePlaceholder: "Enter your phone number...",
